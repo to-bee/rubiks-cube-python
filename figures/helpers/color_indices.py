@@ -1,0 +1,6 @@
+FRONT = 0
+LEFT = 1
+BACK = 2
+RIGHT = 3
+TOP = 4
+DOWN = 5
