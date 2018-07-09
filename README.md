@@ -1,6 +1,8 @@
 # rubiks-cube-python
 Simple Rubiks Cube implementation in python/opengl
 
+![alt text](https://github.com/to-bee/rubiks-cube-python/blob/master/preview.png?raw=true)
+
 ## Install
 `pip install -r requirements.txt`
 
